@@ -1,5 +1,5 @@
 # BHT-ARIMA4TC
-This repository is the official implementation of "A Short-Term Tropical Cyclone Intensity Forecasting Method Based onHigh-order Tensor".
+This repository is the official implementation of "A Short-Term Tropical Cyclone Intensity Forecasting Method Based on High-order Tensor".
 
 
 Due to the file volume and file size limitation of gihub, we had to split the files into two zip packages, please download and unzip them before use and place the CMABSTdata folder under the CMA folder.
