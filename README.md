@@ -15,7 +15,7 @@ It contains the following parts：
    
    (4)year_TC_recordnumber_40.xlsx records the names of typhoons with more than 40 records
    
-  （5)BHT_ARIMA forecast typhoon intensity(predict_BHT_ARIMA folder)
+   (5)BHT_ARIMA forecast typhoon intensity(predict_BHT_ARIMA folder)
   
    (6)BHT_ARIMA predicts the typhoon intensity change at the point where the typhoon suddenly intensifies(point_predict_bht_ARIMA folder)
    
